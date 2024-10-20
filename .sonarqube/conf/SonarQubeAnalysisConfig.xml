@@ -9,7 +9,7 @@
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
     <ConfigSetting Id="TfsUri" />
-    <ConfigSetting Id="settings.file.path" Value="c:\code\SonarQube\SonarQube.Analysis.xml" />
+    <ConfigSetting Id="settings.file.path" Value="C:\Users\sophi\Documents\Emploi\Formation\CESI\MAALSI\Cube 3\Indiv\Poc_LZ\.sonarqube\conf" />
   </AdditionalConfig>
   <ServerSettings>
     <Property Name="qualinsight.badges.activation.measure">true</Property>
